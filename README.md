@@ -25,6 +25,6 @@ sudo chmod +x erpnext_install.sh
 ```
 source erpnext_install.sh
 ```
-Then select the version (13,14,15).
+Then select the version (13,14,15)<br>
 Wait for some time
 #### ERPNext is now installed in your device.
