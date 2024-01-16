@@ -17,7 +17,7 @@ git clone https://github.com/Suryadev007/ERPNext_install
 ```
 cd ERPNext_install
 ```
-3. Change the mpde of script to executable.
+3. Change the mode of script to executable.
 ```
 sudo chmod +x erpnext_install.sh
 ```
