@@ -15,7 +15,7 @@ git clone https://github.com/Suryadev007/ERPNext_install
 ```
 2. Change the directory.
 ```
-cd erpnext_install
+cd ERPNext_install
 ```
 3. Change the mpde of script to executable.
 ```
