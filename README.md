@@ -9,19 +9,19 @@ sudo apt update && sudo apt -y upgrade
 After reboot...
 # Follow the below steps:
 
-1. Clone the repository.
+Step 1. Clone the repository.
 ```
 git clone https://github.com/Suryadev007/ERPNext_install
 ```
-2. Change the directory.
+Step 2. Change the directory.
 ```
 cd ERPNext_install
 ```
-3. Change the mode of script to executable.
+Step 3. Change the mode of script to executable.
 ```
 sudo chmod +x erpnext_install.sh
 ```
-4. Run the script file.
+Step 4. Run the script file.
 ```
 source erpnext_install.sh
 ```
